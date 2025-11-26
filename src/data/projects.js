@@ -1,10 +1,12 @@
+import evantrImg from '/public/image/evantr.png';
+
 export const projects = [
   {
     id: 1,
     title: "Evantr - Event Marketplace Platform",
     description: "Evantr is a platform that helps people quickly find and connect with event vendors like photographers, DJs, venues, décor and more. Users can compare options, contact vendors easily and even get personal help through our Booking Assistant. Vendors get affordable plans and better visibility to grow their business.",
     technologies: [],
-    image: "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&h=600&fit=crop",
+    image: evantrImg,
     github: "#",
     demo: "https://www.evantr.com",
     isLive: true,
