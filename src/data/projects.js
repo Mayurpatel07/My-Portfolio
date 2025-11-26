@@ -4,7 +4,7 @@ export const projects = [
     title: "Evantr - Event Marketplace Platform",
     description: "Evantr is a platform that helps people quickly find and connect with event vendors like photographers, DJs, venues, décor and more. Users can compare options, contact vendors easily and even get personal help through our Booking Assistant. Vendors get affordable plans and better visibility to grow their business.",
     technologies: [],
-    image: "/image/evantr.png",
+    image: "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&h=600&fit=crop",
     github: "#",
     demo: "https://www.evantr.com",
     isLive: true,
